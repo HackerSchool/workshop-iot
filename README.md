@@ -12,7 +12,11 @@ Neste documento iremos deixar informações importantes que te irão ajudar a re
 
 - Como instalar a placa NodeMCU: http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
 
-### Instalar as bibliotecas a usar no projeto Bibliotecas a instalar no Arduino IDE:
+### Bibliotecas a instalar no Arduino IDE:
+
+- JSON parser - https://github.com/squix78/json-streaming-parser
+- esp8266-oled-ssd1306 - https://github.com/squix78/esp8266-oled-ssd1306
+  
 Como instalar as bibliotecas:
 - descarrega o ficheiro zip do github
 - coloca o zip numa pasta a tua escolha no teu computador

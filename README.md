@@ -18,8 +18,10 @@ Neste documento iremos deixar informações importantes que te irão ajudar a re
 - esp8266-oled-ssd1306 - https://github.com/squix78/esp8266-oled-ssd1306
   
 Como instalar as bibliotecas:
-- descarrega o ficheiro zip do github
-- coloca o zip numa pasta a tua escolha no teu computador
-- Abre o Arduino IDE e vai a Rascunho > Incluir Biblioteca > Adicionar biblitoteca .Zip
+- descarrega o ficheiro .zip das respetivas páginas de github
+- coloca o .zip numa pasta à tua escolha no teu computador
+- Abre o Arduino IDE e vai a Rascunho (Sketch) > Incluir Biblioteca (Include Library) > Adicionar biblitoteca .Zip (Add .ZIP Library)
+- Seleciona o ficheiro .zip no ponto 2
+
 
 

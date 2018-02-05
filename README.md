@@ -8,3 +8,14 @@ Neste documento iremos deixar informações importantes que te irão ajudar a re
 ## Software:
 - Arduino IDE - https://www.arduino.cc/en/main/software
 
+- Link para placas adicionais: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
+- Como instalar a placa NodeMCU: http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
+
+### Instalar as bibliotecas a usar no projeto Bibliotecas a instalar no Arduino IDE:
+Como instalar as bibliotecas:
+- descarrega o ficheiro zip do github
+- coloca o zip numa pasta a tua escolha no teu computador
+- Abre o Arduino IDE e vai a Rascunho > Incluir Biblioteca > Adicionar biblitoteca .Zip
+
+

@@ -24,5 +24,14 @@ Como instalar as bibliotecas:
 - Abre o Arduino IDE e vai a Rascunho (Sketch) > Incluir Biblioteca (Include Library) > Adicionar biblitoteca .Zip (Add .ZIP Library)
 - Seleciona o ficheiro .zip no ponto 2
 
+#### Criar conta no WunderGround API
+- Acede ao site - https://www.wunderground.com/signup?mode=api_signup
+- Cria uma conta com o teu mail e uma password, o site irá mandar-te um mail para confirmares a ativivação.
+- Faz Log In no site do Weather Underground com a conta que crias-te
+- Vai a "Explore My Options", clica “Purchase Key” (é gratis, não é necessário pores informação de pagamento)
+- Preenche o formulário para requesitares a chave. Na pergunta "onde vais usar a API" seleciona "outro", na pergunta "uso comercial" diz "não", na pergunta "é para uso num chip de processamento" diz "não"
+
+##### Estás pronto para iniciar o workshop!
+
 
 

@@ -9,6 +9,8 @@ Neste documento iremos deixar informações importantes que te irão ajudar a re
 ## Software:
 - Arduino IDE - https://www.arduino.cc/en/main/software
 
+- GIMP - https://www.gimp.org/downloads/
+
 - Link para placas adicionais: http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 - Como instalar a placa NodeMCU: http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/

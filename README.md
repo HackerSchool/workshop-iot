@@ -1,6 +1,9 @@
 # Workshop de Internet of Things
 Tudo o que precisas de saber sobre o Workshop de Internet of Things da HackerSchool!
 
+Link com a informação detalhada:
+https://docs.google.com/document/d/1PlK4vhQ3tcno6HpYddqtAMnFD6SOvJ7Qx3isE_m0doo/edit?usp=sharing
+
 Neste workshop poderás criar um relógio de secretária com acesso à meteorologia em tempo real, 
 o teu primeiro projeto de IoT.
 

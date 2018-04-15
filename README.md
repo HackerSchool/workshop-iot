@@ -28,6 +28,7 @@ Neste documento iremos deixar informações importantes que te irão ajudar a re
 
 - JSON parser - https://github.com/squix78/json-streaming-parser
 - esp8266-oled-ssd1306 - https://github.com/squix78/esp8266-oled-ssd1306
+- Blynk library - https://github.com/blynkkk/blynk-library/releases/tag/v0.5.2
   
 Como instalar as bibliotecas:
 - descarrega o ficheiro .zip das respetivas páginas de github

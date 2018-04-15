@@ -18,6 +18,12 @@ Neste documento iremos deixar informações importantes que te irão ajudar a re
 
 - Como instalar a placa NodeMCU: http://www.instructables.com/id/Quick-Start-to-Nodemcu-ESP8266-on-Arduino-IDE/
 
+## Android/Apple
+- Blynk - instalar a applicação e criar conta. Tutorial em https://www.blynk.cc/getting-started/
+    Link para as aplicações - descarregar a apropriada.
+    https://play.google.com/store/apps/details?id=cc.blynk&hl=pt
+    https://itunes.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481?mt=8
+
 ### Bibliotecas a instalar no Arduino IDE:
 
 - JSON parser - https://github.com/squix78/json-streaming-parser

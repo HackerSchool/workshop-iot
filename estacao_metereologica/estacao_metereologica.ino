@@ -274,7 +274,7 @@ void desenharTempoData(OLEDDisplay *display, OLEDDisplayUiState* state, int16_t 
   int textWidth = display->getStringWidth(date);
   display->drawString(64 + x, 5 + y, date);
   display->setFont(ArialMT_Plain_24);
-  String time = timeClient.getFormattedTime();
+  String time = wunderground.getHours() + ":" + wunderground.getMinutes() + ":" + wunderground.getSeconds();
   textWidth = display->getStringWidth(time);
   display->drawString(64 + x, 15 + y, time);
   display->setTextAlignment(TEXT_ALIGN_LEFT);

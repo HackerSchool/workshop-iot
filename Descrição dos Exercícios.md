@@ -10,7 +10,7 @@ Vamos agora dar o primeiro e talvez o mais importante passo na criação de um p
 Introdução à aplicação e serviço Blynk que te irá permitir de forma bastante simplificada criar aplicações móveis para controlar, ler informações e integrar serviços nos teus projetos. Vais ficar maravilhado com a facilidade e as potencialidades dos serviços que tens ao teu dispor para monitorizar os gadgets. Vais aprender a fazer uma aplicação que possuí um botão que irá ligar e desligar um LED e ainda um slider para enviar um valor específico.
 2ª Sessão
 
-### 2ª Sessão
+## 2ª Sessão
 	Exercício 6 e 7 – Controlar um LCD
 De que é que serve um relógio se não tiver um ecrã para te dar as horas. Nestes dois exercícios irás aprender a ligar um display OLED ao arduino com protocolo de comunicação I2C que é usado pela maior parte dos sensores disponíveis para microcontroladores. No final dos exercícios conseguiras escrever, desenhar formas e exibir imagens criadas tanto por ti como providenciadas por API’s no ecrã. Temos um desafio extra dentro desta fase…
 	

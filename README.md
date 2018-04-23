@@ -43,7 +43,7 @@ Como instalar as bibliotecas:
 - Vai a "Explore My Options", clica “Purchase Key” (é gratis, não é necessário pores informação de pagamento)
 - Preenche o formulário para requesitares a chave. Na pergunta "onde vais usar a API" seleciona "outro", na pergunta "uso comercial" diz "não", na pergunta "é para uso num chip de processamento" diz "não"
 
-##### Descarrega os exercícios todos disponíveis no GitHub
+##### Descarrega todo o conteúdo disponível no GitHub
 
 ###### Estás pronto para iniciar o workshop!
 

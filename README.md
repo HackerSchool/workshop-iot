@@ -47,4 +47,6 @@ Como instalar as bibliotecas:
 ###### Estás pronto para iniciar o workshop!
 
 
+###### Questionário para avaliarem o workshop
+https://docs.google.com/forms/d/e/1FAIpQLSe9RoQAEV1THuuKQApZmhTgoGL4Et9F1ZYJPHkVeSoCS097Cg/viewform
 

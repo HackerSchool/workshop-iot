@@ -24,7 +24,7 @@ Neste documento iremos deixar informações importantes que te irão ajudar a re
     https://itunes.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481?mt=8
 
 ### Bibliotecas a instalar no Arduino IDE:
-
+- Wunderground - https://github.com/ThingPulse/esp8266-weather-station
 - JSON parser - https://github.com/squix78/json-streaming-parser
 - esp8266-oled-ssd1306 - https://github.com/squix78/esp8266-oled-ssd1306
 - Blynk library - https://github.com/blynkkk/blynk-library/releases/tag/v0.5.2
